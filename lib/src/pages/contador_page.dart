@@ -22,7 +22,7 @@ class _ContadorPageState extends State<ContadorPage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              'Numero de vasos consumido hoy: ',
+              'Vasos consumido hoy',
               style: _estiloTexto,
             ),
             Text(
